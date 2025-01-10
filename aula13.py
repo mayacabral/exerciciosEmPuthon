@@ -1,14 +1,15 @@
-#for c in range(1,6):
-#    print('oi')
+#AULA SOBRE FUNÇÃO
 
-#for c in range(0,8):
-#    print(c)
 
-#n = int(input('Digite um numero: '))
-#for c in range(0, n):
-#    print(c)
+def soma(a,b):
+    s = a + b
+    print(s)
 
-n = int(input('Digite um numero: '))
-for c in range(0, n+1):
-    print(c)    
-print('FIM')
+
+soma(6,9)
+
+def contador(*num):
+    print(num)
+
+
+contador(8,9,3,6,5,7)
