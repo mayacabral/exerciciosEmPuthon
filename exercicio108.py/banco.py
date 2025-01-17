@@ -20,13 +20,13 @@ match escolha:
     case "1":
         dinheiro = aumentar(dinheiro) 
     case "2":
-        dinheiro = diminuir(dinheiro)  # Atualiza o valor
+        dinheiro = diminuir(dinheiro)  
         print(f"O valor atualizado é: R$ {dinheiro:.2f}")
     case "3":
-        dinheiro = dobrar(dinheiro)  # Atualiza o valor
+        dinheiro = dobrar(dinheiro) 
         print(f"O valor atualizado é: R$ {dinheiro:.2f}")
     case "4":
-        dinheiro = metade(dinheiro)  # Atualiza o valor
+        dinheiro = metade(dinheiro)  
         print(f"O valor atualizado é: R$ {dinheiro:.2f}")
     case _:
         print("Opção inválida. Tente novamente.")
