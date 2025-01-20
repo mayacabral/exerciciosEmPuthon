@@ -23,7 +23,7 @@ python nome_do_arquivo.py
 ```
 
 ## CONTRIBUIDORA
-<a href="https://github.com/mayacabral/exerciciosEmPython/graphs/contributors"><img src="ME.webp"  width="300" height="300"  /></a>
+<a href="https://github.com/mayacabral/exerciciosEmPython/graphs/contributors"><img src="ME.webp"  width="200" height="200"  /></a>
 
     MAYARA CABRAL  https://www.linkedin.com/in/mayara-gc/
 
