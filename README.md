@@ -23,7 +23,13 @@ python nome_do_arquivo.py
 ```
 
 ## CONTRIBUIDORA
-<a href="https://github.com/RichardLitt/standard-readme/graphs/contributors"><img src="ME.webp" /></a>
+<a href="https://github.com/mayacabral/exerciciosEmPython/graphs/contributors"><img src="ME.webp" /></a>
 
     MAYARA CABRAL  https://www.linkedin.com/in/mayara-gc/
 
+<style>
+  .imagem-link {
+    width: 300px;
+    height: 300px;
+  }
+</style>
